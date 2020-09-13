@@ -1,0 +1,19 @@
+
+{
+  "name": "Pep Weather",
+  "short_name": "PW",
+  "start_url": "./index.html",
+  "background_color": "#2c5fff",
+  "theme_color": "#f4f4f4",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/icon1.png",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon2.png",
+      "type": "image/png"
+    }
+    ]
+}
